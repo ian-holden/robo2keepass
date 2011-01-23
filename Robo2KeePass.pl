@@ -16,7 +16,7 @@
 #
 # Finally I suggest using something like axcrypt to securely delete the source files containing all your passwords.
 #
-# $Id: Robo2KeePass.pl 48 2011-01-23 11:47:06Z projectlocker$
+# $Id$
 #
 # Copyright 2011 ianholden.com
 # License: BSD License (see end of code)
