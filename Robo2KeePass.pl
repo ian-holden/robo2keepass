@@ -16,7 +16,11 @@
 #
 # Finally I suggest using something like axcrypt to securely delete the source files containing all your passwords.
 #
-# $Id: Robo2KeePass.pl 3 2011-01-23 11:54:21Z ihm8il@gmail.com $
+# Version 1.5
+#
+# $Date$
+# $rev$
+# $URL$
 #
 # Copyright 2011 ianholden.com
 # License: BSD License (see end of code)
