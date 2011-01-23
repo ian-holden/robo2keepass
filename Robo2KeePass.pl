@@ -14,20 +14,24 @@
 # then run the perl script in this dir to create
 # keepass.xml
 #
-# Finally I suggest using something like axcrypt to securely delete the source files containing all your passwords.
+# Finally I suggest using something like axcrypt to securely delete the files containing all your unencrypted passwords.
 #
-# Version 1.6
+# Version 1.7
 #
 # $Date$
 # $Revision$
 # $HeadURL$
+#
+#
+# Changes:
+# 2011-01-23 v1.7 Removed reference to unused Data::Dumper package
+# 2011-01-23 v1.6 Initial version uploaded to Google Code
 #
 # Copyright 2011 ianholden.com
 # License: BSD License (see end of code)
 
 use strict;
 use Encode; # source html is in UTF16 LE (little endian) - need to decode for regex to work
-use Data::Dumper;
 
 #_________________________________________________
 #{ CONFIGURATION:
