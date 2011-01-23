@@ -16,11 +16,11 @@
 #
 # Finally I suggest using something like axcrypt to securely delete the source files containing all your passwords.
 #
-# Version 1.5
+# Version 1.6
 #
 # $Date$
-# $rev$
-# $URL$
+# $Revision$
+# $HeadURL$
 #
 # Copyright 2011 ianholden.com
 # License: BSD License (see end of code)
